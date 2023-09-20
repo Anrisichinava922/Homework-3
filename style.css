@@ -1,0 +1,23 @@
+h1{
+    background-color: yellow;
+    color: tomato;
+}
+table{
+    border: 4px solid black;
+}
+th{
+    border: 4px solid black;
+    background-color: red;
+}
+td{
+    border: 4px solid black;
+    background-color: aqua;
+}
+.Nika{
+    border: 4px dotted black;
+    background-color: orange;
+}
+.Gio{
+    border: 4px dashed black;
+    background-color: brown;
+}
